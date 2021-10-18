@@ -1,0 +1,40 @@
+[
+    {
+        "nombre": "La pasión de Cristo",
+        "clasificacion": "R - +16",
+        "duracion": "126 minutos",
+        "descripcion": "La Pasión de Cristo recrea las últimas doce horas en la vida de Jesús de Nazaret desde el momento en el que acude al Huerto de los Olivos (Getsemaní) a orar tras la Última Cena, enfrentándose a las tentaciones de Satanás.",
+        "butaca": "Radom",
+        "horario": [
+            "8:00",
+            "11:00",
+            "1:30",
+            "4:00"
+        ]
+    },
+    {
+        "nombre": "El rey león",
+        "clasificacion": "Todo público",
+        "duracion": "1h 29min",
+        "descripcion": "La historia sigue la vida del pequeño Simba, un cachorro de león que vive felizmente en la sabana con el resto de su familia. ",
+        "butaca": "Cuvex",
+        "horario": [
+            "9:00",
+            "12:30",
+            "2:30",
+            "6:00"
+        ]
+    },
+    {
+        "nombre": "Don Bosco La pelicula",
+        "clasificacion": "Todo público",
+        "duracion": "3h 20min",
+        "descripcion": "Don Bosco es un religioso que decide dedicarse a transmitir un mensaje de razón, religión y cariño a todos los niños desamparados, en una época agitada por luchas políticas y tensiones religiosas",
+        "butaca": "Albius",
+        "horario": [
+            "11:00",
+            "3:00",
+            "7:30"
+        ]
+    }
+]
