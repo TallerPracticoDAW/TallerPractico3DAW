@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h1, h3 {
+    text-align: center;
+    margin-top: 25px;
+}
+#ticket{
+   width: 80%;
+   margin: 0 auto;
+
+}
+.btns{
+    margin-left: 250px;
+}

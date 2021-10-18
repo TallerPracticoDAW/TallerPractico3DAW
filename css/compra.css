@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 25px;
+}
+table{
+    width: 30%;
+    margin: 0 auto;
+}
+#btn{
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    margin-top: 25px;
+}
+a{
+    text-decoration: none;
+    list-style: none;
+}

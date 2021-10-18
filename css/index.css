@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 25px;
+}
+
+.peliculas {
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+}
+
+.img-peli {
+    width: 250px;
+    height: 300px;
+}
+
+.img {
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.contenido2 {
+    display: flex;
+    margin-top: 50px;
+}
+
+.contenido2, p {
+    margin-right: 50px;
+}
+
+p {
+    font-size: 18px;
+}
